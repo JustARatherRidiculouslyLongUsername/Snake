@@ -1,0 +1,11 @@
+p {
+	padding: 0px;
+	color: red;
+	font-size: 30px;
+}
+
+body {
+	padding: 0px;
+	margin: 0px;
+	background-color: #333;
+}
